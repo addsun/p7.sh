@@ -1,4 +1,4 @@
-# OpenShift安装Nginx和PHP7脚本
+# OpenShift安装Nginx+PHP7脚本
 
 > cd /tmp
 
