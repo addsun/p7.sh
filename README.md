@@ -1,8 +1,11 @@
 # OpenShift安装Nginx和PHP7脚本
 
 > cd /tmp
+
 > wget --no-check-certificate https://raw.githubusercontent.com/oceanvia/p7.sh/master/p7.sh
+
 > chmod 755 p7.sh
+
 > ./p7.sh
 
 
