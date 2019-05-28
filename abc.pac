@@ -1,5 +1,5 @@
 //var proxy = "SOCKS5 127.0.0.1:1080;";
-var proxy = "PROXY 47.52.27.97:3128;";
+var proxy = "PROXY 220.143.173.54:3128;";
 
 var domains = {
   "freekiritoedurs-my.sharepoint.com": 1
