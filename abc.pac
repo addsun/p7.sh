@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 162.105.205.253:8887;";
+var proxy = "SOCKS5 119.28.191.130:3128;";
 //var proxy = "PROXY 220.143.173.54:3128;";
 
 var domains = {
