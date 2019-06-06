@@ -1,4 +1,4 @@
-var proxy = "PROXY 47.52.68.55:3128;";
+var proxy = "PROXY 127.0.0.1:31288;";
 
 
 var domains = {
